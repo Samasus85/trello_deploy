@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background: linear-gradient(to bottom left, rgb(127, 255, 246) 50%, #0091e6 50%);
+}
+@media (prefers-reduced-motion: no-preference) {
+	body {
+		margin: 0 auto;
+	}
+}
+

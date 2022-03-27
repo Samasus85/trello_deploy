@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktrello=self.webpackChunktrello||[]).push([[171],{171:function(e,n,s){s.r(n);var l=s(84),r=s(63),t=s(136),u=s(184);n.default=function(){return(0,u.jsxs)("main",{children:[(0,u.jsx)(l.Z,{}),(0,u.jsx)(t.Z,{children:(0,u.jsx)(r.Z,{})})]})}}}]);
+//# sourceMappingURL=171.09042101.chunk.js.map
